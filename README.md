@@ -3,8 +3,7 @@
 
 ### Abstract:
 
-A News company  want to know what news topics people are interested in and prefer, which helps the company to improve attracts people and attract the largest number of people
-
+A News company want to know  what news topics people are interested in and prefer, which helps the company attracting largest number of people.
 ### Data Description:
 
 The data will be used in this project is provided by <a href="https://www.kaggle.com/amananandrai/clickbait-dataset">Kaggle</a>. 
