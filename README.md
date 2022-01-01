@@ -15,14 +15,14 @@ Columns contains:
 2) clickbait: which 1 represents it is clickbait and 0 represents non-clickbait
 
 
+
  What we gonna use: 
   <ol>
     
   <li>Topic Modeling: To find the topic of the text and create new column topic </li>
     
-  <li>Clustering: To classify similar topic and  find the behavior data</li>
-    
-  <li>Classification: Use the new column from topic modeling to know what is the most topic has click</li>
+  
+  <li>Nlb Classification: depending on the topics from topic modeling, classify it to know what type of news are clicked the most and predict what type of news depending on headline news </li>
   </ol>
 
 
@@ -36,3 +36,5 @@ Columns contains:
 •	Sklearn 
 
 • NLTK
+
+• Keras 
