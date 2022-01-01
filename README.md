@@ -21,7 +21,7 @@ Columns contains:
   <li>Topic Modeling: To find the topic of the text and create new column topic </li>
     
   
-  <li>Nlb Classification: depending on the topics from topic modeling, classify it to know what type of news are clicked the most and predict what type of news depending on headline news </li>
+  <li>Nlb Classification: depending on the topics from topic modeling, classify it to know what type of news are clicked the most and predict what is the type of news depending on headline news </li>
   </ol>
 
 
