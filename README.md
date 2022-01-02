@@ -37,6 +37,10 @@ Columns contains:
 
 • Keras 
 
+• Flask and Pycharm for deployment
+
+
+
 ### slides :
 The slides are provided  in <a href="https://prezi.com/view/nGNUmOHkqRuDGpmBNGdQ/">Presentation</a>.
 
