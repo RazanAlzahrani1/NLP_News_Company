@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+
+	<header>
+		<h2>News headlines Predictio</h2>
+		
+	</header>
+	<p style="color:MidnightBlue;font-size: 30px;"><b>Results is:</b></p>
+	<div class="results">
+
+
+		
+	{% if prediction ==  0%}
+	<h2 style="color:LightSeaGreen;">the type of topic is Entertainment</h2>
+	{% elif prediction == 1%}
+	<h2 style="color:LightSeaGreen;">the type of topic is Politics</h2>
+	{% elif prediction == 2%}
+	<h2 style="color:LightSeaGreen;">the type of topic is Lifestyle</h2>
+	{% elif prediction == 3%}
+	<h2 style="color:LightSeaGreen;">the type of topic is Breaking news</h2>
+	{% endif %}
+
+	</div>
+
+</body>
+</html>
