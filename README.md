@@ -40,9 +40,8 @@ Columns contains:
 
 ### Communication:
 
-The slides are provided  in <a href="https://prezi.com/view/nGNUmOHkqRuDGpmBNGdQ/">Presentation</a>.
 
  <a href="https://github.com/modisultan">Modhi github</a> and Email: modi_sultan@outlook.com.
  
 
- <a href="https://github.com/RazanAlzahrani1">Razan github</a>and Email: irazanalzahrani@gmail.com. 
+ <a href="https://github.com/RazanAlzahrani1">Razan github</a> and Email: irazanalzahrani@gmail.com. 
