@@ -49,4 +49,4 @@ headline news </li>
 ### Communication:
 
 The slides are provided  in <a href="https://prezi.com/view/nGNUmOHkqRuDGpmBNGdQ/">Presentation</a> and proposal provided at 
-<a href="https://github.com/RazanAlzahrani1/NLP_News_Company#readme">README</a> file
+<a href="https://github.com/RazanAlzahrani1/NLP_News_Company#readme">README</a> file.
