@@ -31,7 +31,7 @@ The data will be used in this project is provided by <a href="https://www.kaggle
 type of news are clicked the most and predict what is the type of news depending on
 headline news </li>
 
-  <li> Deployment: after we do experiments we will chooses the best experiment and deploy it with Flaska using PyCharm  </li>
+  <li> Deployment: after we do classification experiments we will chooses the best experiment and deploy it with Flaska using PyCharm  </li>
   </ol>
 
 ### Tools:
