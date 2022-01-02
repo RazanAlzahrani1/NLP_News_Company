@@ -24,6 +24,8 @@ Columns contains:
   <li>Nlb Classification: depending on the topics from topic modeling, classify it to know what type of news are clicked the most and predict what is the type of news depending on headline news </li>
   </ol>
 
+### slides :
+The slides are provided  in <a href="https://prezi.com/view/nGNUmOHkqRuDGpmBNGdQ/">Presentation</a>.
 
 
 ### Tools:
