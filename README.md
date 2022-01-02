@@ -37,3 +37,6 @@ Columns contains:
 • NLTK
 
 • Keras 
+
+Communication:
+The slides are provided  in <a href="https://prezi.com/view/nGNUmOHkqRuDGpmBNGdQ/">Presentation</a>.
