@@ -3,25 +3,27 @@
 
 ### Abstract:
 
-A News company want to know  what news topics people are interested in and prefer, which helps the company attracting largest number of people.
+A news company want to know what type of topics people are interested in and prefer, which helps the company attracting largest number of people.
+
 ### Data Description:
 
 The data will be used in this project is provided by <a href="https://www.kaggle.com/amananandrai/clickbait-dataset">Kaggle</a>. 
 it contains of 32000 rows and 2 columns.
 
 Columns contains:
-1) headline: contains headlines from  different news sites 
-2) clickbait: which 1 represents it is clickbait and 0 represents non-clickbait
+1) headline: headlines from different news sites.
+2) clickbait: which 1 represents it is clickbait and 0 represents non-clickbait.
 
 
 
  What we gonna use: 
   <ol>
     
-  <li>Topic Modeling: To find the topic of the text and create new column topic </li>
+  <li>Topic Modeling: To find the topic of the text and create new column topic. </li>
     
-  
-  <li>Nlb Classification: depending on the topics from topic modeling, classify it to know what type of news are clicked the most and predict what is the type of news depending on headline news </li>
+  <li>Nlb Classification: depending on the topics from topic modeling, classify it to know what type of news are clicked the most and predict what is the type of news depending on headline news. </li>
+ 
+ <li>Deployment: after we do classification experiments we will chooses the best experiment and deploy it with Flaska using PyCharm. </li>
   </ol>
 
 
