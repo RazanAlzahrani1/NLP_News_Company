@@ -22,7 +22,7 @@ The data will be used in this project is provided by <a href="https://www.kaggle
   <li>clickbait: which 1 represents it is clickbait and 0 represents non-clickbait </li>
   </ol>
   
-##### What we gonna do:
+##### What we do:
 
  <ol>
   <li>Topic Modeling: To find the topic of the text and create new column topic</li>
